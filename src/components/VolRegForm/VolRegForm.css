@@ -1,0 +1,10 @@
+.form-area{
+    width: 470px;
+    height: auto;
+    margin: 20px auto;
+    padding: 30px;
+    border: 1px solid black;
+}
+.form-control:disabled, .form-control[readonly]{
+    background-color: white;
+}
